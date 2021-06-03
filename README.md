@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jake Joseph</h1>
 <h3 align="center">A passionate software developer seeking an internship for Fall 2021</h3>
 
-- 🔭 I’m currently working on [Reno'd](https://github.com/jakejosephcs/renod)
-
-- 🌱 I’m currently learning **React, MongoDB, Node, Express**
+- 🔭 I’m currently working on building a [Netflix Clone](https://github.com/jakejosephcs/netflix-clone) using React, Styled Components and Firebase
 
 - 👥 Learn more about me [Portfolio Website](https://jakejosephcs.github.io/)
 
+- 📫 How to reach me **jakejosephcs@gmail.com**
+
+- 🌱 I’m currently learning **React, MongoDB, Node, Express**
+
 - 💬 Ask me about **Javascript, HTML, CSS, React, Node**
 
-- 📫 How to reach me **jakejosephcs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
