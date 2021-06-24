@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jake Joseph</h1>
 <h3 align="center">A passionate software developer seeking an internship for Fall 2021</h3>
 
-- 👥 Learn more about me [Portfolio Website](https://jakejosephcs.github.io/)
+- 👥 Learn more about me on my [Portfolio Website](https://jakejosephcs.github.io/)
 
-- 📫 How to reach me **jakejosephcs@gmail.com**
+- 📫 Reach me at **jakejosephcs@gmail.com**
 
 - 🌱 I’m currently learning **React, MongoDB, Node, Express**
 
