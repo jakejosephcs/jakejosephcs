@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake Joseph</h1>
-<h3 align="center">A passionate software developer seeking an internship for Fall 2021</h3>
+<h3 align="center">A passionate software developer from Toronto</h3>
 
 - 👥 Learn more about me on my [Portfolio Website](https://jakejosephcs.github.io/)
 
