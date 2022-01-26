@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Jake</h1>
 <h2 align="center">Software Developer Intern @ <a href="https://www.geotab.com/" target="_blank">Geotab</a> seeking a Summer 2022 Co-op or Internship</h2>
 
-- 🌱 I love building things. I'm combining my love for weightlifting and code by working on [Stronger](https://github.com/jakejosephcs/Stronger)
+- 🌱 I enjoy building things. I'm combining my love for weightlifting and code by working on [Stronger](https://github.com/jakejosephcs/Stronger)
 
 - 👥 You can learn more about me on my [Portfolio Website](https://jakejosephcs.github.io/) | [LinkedIn](https://www.linkedin.com/in/jakejosephcs/) | [Twitter](https://twitter.com/jjosephcs)
 
