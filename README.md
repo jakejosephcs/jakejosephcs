@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Jake</h1>
-<h2 align="center">Software Developer Intern @ <a href="https://www.geotab.com/" target="_blank">Geotab</a></h2>
+<h2 align="center">Software Developer Intern @ <a href="https://www.shopify.ca/" target="_blank">Shopify</a></h2>
 
 - 🌱 I enjoy building things. I'm combining my love for weightlifting and code by working on [Stronger](https://github.com/jakejosephcs/Stronger)
 
